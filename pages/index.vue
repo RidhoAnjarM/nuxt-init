@@ -1,3 +1,18 @@
 <template>
-    <h1 class="bg-black text-red-700 text-9xl w-80 h-1/6 ">Hello Word haha</h1>
+    <section class="container">
+        <section class="hiro">
+            <div class="text">
+                <h1>Navigating the digital landscape for success</h1>
+                <p>Our digital marketing agency helps businesses grow and succeed online through a range of services
+                    including
+                    SEO, PPC, social media marketing, and content creation.</p>
+                <div class="book">
+                    <a href="#">Book a consultation</a>
+                </div>
+            </div>
+            <div class="ilustration">
+                <img src="~/assets/image/ilustration.svg" alt="">
+            </div>
+        </section>
+    </section>
 </template>
