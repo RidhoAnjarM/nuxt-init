@@ -3,6 +3,7 @@
     <NuxtLayout>
       <Navbar />
       <NuxtPage />
+      <Subheading />
     </NuxtLayout>
   </div>
 </template>

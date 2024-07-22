@@ -11,7 +11,7 @@
                 </div>
             </div>
             <div class="ilustration">
-                <img src="~/assets/image/ilustration.svg" alt="">
+                <img src="~/assets/image/ilustration.svg" alt="ilustration">
             </div>
         </section>
     </section>
