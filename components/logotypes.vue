@@ -1,6 +1,6 @@
 <template>
     <section>
-        <ul class="flex justify-between mt-20 mb-20 items-center">
+        <ul class="flex justify-between mt-[70px] mb-[70px] items-center">
             <li><a href="#"><img src="~/assets/image/amazon.svg" alt="amazon"></a></li>
             <li><a href="#"><img src="~/assets/image/drible.svg" alt="drible"></a></li>
             <li><a href="#"><img src="~/assets/image/hubspot.svg" alt="hubspot"></a></li>

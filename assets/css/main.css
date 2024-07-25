@@ -6,19 +6,6 @@ body {
     justify-content: center;
 }
 
-.heading {
-    margin: 104px 0px;
-    width: 1443px;
-    display: flex;
-    padding-inline: 100px;
-  }
-  
-  .heading p {
-    width: 580px;
-    color: #000;
-    font-family: "Space Grotesk";
-    font-size: 18px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: normal;
-  }
+.font-space-grotesk {
+  font-family: 'Space Grotesk', sans-serif;
+}
